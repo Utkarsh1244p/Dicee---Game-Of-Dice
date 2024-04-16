@@ -4,9 +4,9 @@ Welcome to the Dicee website repository! This is a simple web-based dice game bu
 
 ## Preview
 
-Here's a brief overview of the sections included in the Move It app:
+Here's a preview of the Dicee website:
 
-The Dicee website allows users to roll two dice with the click of a button. Each dice roll generates random numbers between 1 and 6, simulating the outcome of rolling physical dice.
+![Dicee Website Preview](images/dicee-preview.png)
 
 ## Broadcast Link
 
