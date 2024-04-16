@@ -19,7 +19,7 @@ To run the Move It app locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   https://github.com/Utkarsh1244p/Dicee---Game-Of-Dice.git
+   git clone https://github.com/Utkarsh1244p/Dicee---Game-Of-Dice.git
 
 2. **Navigate into the project directory:**
 
