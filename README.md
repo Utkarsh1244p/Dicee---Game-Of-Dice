@@ -14,7 +14,7 @@ Here's a preview of the Dicee website:
 
 ## Broadcast Link
 
-Visit my website here: [https://utkarsh1244p.github.io/Move-It/](https://utkarsh1244p.github.io/Dicee---Game-Of-Dice/)
+Visit my website here: https://utkarsh1244p.github.io/Dicee---Game-Of-Dice/
 
 ## Installation
 
