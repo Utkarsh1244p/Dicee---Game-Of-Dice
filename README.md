@@ -8,13 +8,17 @@ Here's a preview of the Dicee website:
 
 ![Dicee Website Preview](images/dicee-preview.png)
 
+## How to Play
+* Simply open index.html in a web browser.
+* Click the "Roll Dice" button to roll the dice and see the results displayed on the page.
+
 ## Broadcast Link
 
 Visit my website here: [https://utkarsh1244p.github.io/Move-It/](https://utkarsh1244p.github.io/Dicee---Game-Of-Dice/)
 
 ## Installation
 
-To run the Move It app locally, follow these steps:
+To run the Dicee app locally, follow these steps:
 
 1. **Clone the repository:**
 
@@ -24,7 +28,7 @@ To run the Move It app locally, follow these steps:
 2. **Navigate into the project directory:**
 
    ```bash
-   cd move-it-app
+   cd dicee-app
 
 3. **Open the index.html file in your web browser.**
 
